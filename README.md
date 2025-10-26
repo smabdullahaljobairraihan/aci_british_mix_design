@@ -25,15 +25,20 @@ The project was completed in a team of six and presented with live MATLAB demons
 
 ### ACI Mix Design
 
-<details>
-  <summary>Click to view sample question</summary>
-  <img src="images/aci_sample_question.png" alt="ACI Sample Question">
-</details>
+<figure>
+  <details>
+    <summary>Click to view ACI Sample Question</summary>
+    <img src="images/aci_sample_question.png" alt="ACI Mix Design Sample Question">
+  </details>
+  <figcaption>This question has been taken from the "Term Final Questions" of BUET.</figcaption>
+</figure>
 
 ### British Mix Design
 
-<details>
-  <summary>Click to view sample question</summary>
-  <img src="images/british_sample_question.png" alt="British Sample Question">
-</details>
-
+<figure>
+  <details>
+    <summary>Click to view British Sample Question</summary>
+    <img src="images/british_sample_question.png" alt="British Mix Design Sample Question">
+  </details>
+  <figcaption>This question has been taken from the "Term Final Questions" of BUET.</figcaption>
+</figure>
