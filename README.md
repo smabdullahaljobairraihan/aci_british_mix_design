@@ -9,7 +9,7 @@
 
 ## 📝 Project Overview
 
-This repository contains MATLAB scripts developed as part of the CE 206 course at BUET to perform concrete mix designs based on ACI and British standards. The scripts allow users to input parameters such as material properties and desired strength, and automatically compute the required proportions for concrete mixes.
+This repository contains MATLAB script developed as part of the CE 206 course at BUET to perform concrete mix designs based on ACI and British standards. The script allows users to input parameters such as material properties and desired strength, and automatically compute the required proportions for concrete mixes.
 
 The project was completed in a team of six and presented with live MATLAB demonstrations to illustrate the functionality and accuracy of the scripts. The tool provides an efficient and practical approach for performing mix designs, reinforcing computational concepts learned in the course and serving as a reference for engineering students and professionals.
 
